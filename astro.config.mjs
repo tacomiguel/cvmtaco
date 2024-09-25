@@ -10,7 +10,7 @@ export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   //output: "server",
   //adapter: vercel(),
-  site: "https://tacomiguel.github.io",
-  base: "cvmtaco"
+  //site: "https://tacomiguel.github.io",
+  //base: "cvmtaco"
 
 });
